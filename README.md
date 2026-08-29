@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/devpratapsingh009/leetcode/tree/master/0058-length-of-last-word) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Enumeration
 |  |
