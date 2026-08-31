@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/devpratapsingh009/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devpratapsingh009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devpratapsingh009/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -73,9 +74,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
