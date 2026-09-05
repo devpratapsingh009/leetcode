@@ -21,6 +21,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devpratapsingh009/leetcode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Enumeration
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
