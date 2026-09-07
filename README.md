@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devpratapsingh009/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
+| [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/devpratapsingh009/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
