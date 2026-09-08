@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2090-k-radius-subarray-averages](https://github.com/devpratapsingh009/leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/devpratapsingh009/leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Counting
 |  |
 | ------- |
