@@ -22,6 +22,7 @@
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2090-k-radius-subarray-averages](https://github.com/devpratapsingh009/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/devpratapsingh009/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/devpratapsingh009/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/devpratapsingh009/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/devpratapsingh009/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/devpratapsingh009/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
 | ------- |
