@@ -28,6 +28,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/devpratapsingh009/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/devpratapsingh009/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/devpratapsingh009/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
