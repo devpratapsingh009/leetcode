@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
