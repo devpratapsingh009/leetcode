@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,4 +166,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
