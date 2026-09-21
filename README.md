@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/devpratapsingh009/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devpratapsingh009/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devpratapsingh009/leetcode/tree/master/0525-contiguous-array) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/devpratapsingh009/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/devpratapsingh009/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/devpratapsingh009/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
