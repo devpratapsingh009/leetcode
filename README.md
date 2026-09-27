@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -153,6 +155,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -165,6 +168,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
