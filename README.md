@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/devpratapsingh009/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devpratapsingh009/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/devpratapsingh009/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/devpratapsingh009/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
