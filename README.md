@@ -54,6 +54,7 @@
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devpratapsingh009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/devpratapsingh009/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devpratapsingh009/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
