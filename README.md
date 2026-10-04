@@ -53,6 +53,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -143,11 +144,13 @@
 | [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devpratapsingh009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -225,11 +228,13 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
