@@ -32,6 +32,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/devpratapsingh009/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devpratapsingh009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
@@ -154,6 +155,7 @@
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/devpratapsingh009/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Memoization
 |  |
 | ------- |
