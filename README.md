@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/devpratapsingh009/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/devpratapsingh009/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devpratapsingh009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
