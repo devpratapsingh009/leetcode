@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/devpratapsingh009/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/devpratapsingh009/leetcode/tree/master/0724-find-pivot-index) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0875-koko-eating-bananas](https://github.com/devpratapsingh009/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/devpratapsingh009/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -109,6 +110,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -159,6 +161,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/devpratapsingh009/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -250,4 +254,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/devpratapsingh009/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
