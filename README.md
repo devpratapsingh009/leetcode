@@ -59,6 +59,7 @@
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/devpratapsingh009/leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/devpratapsingh009/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -81,6 +82,7 @@
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/devpratapsingh009/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -242,6 +244,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/devpratapsingh009/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/devpratapsingh009/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
