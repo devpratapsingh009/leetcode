@@ -59,6 +59,7 @@
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/devpratapsingh009/leetcode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/devpratapsingh009/leetcode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/devpratapsingh009/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -113,6 +114,7 @@
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/devpratapsingh009/leetcode/tree/master/0791-custom-sort-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -137,6 +139,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/devpratapsingh009/leetcode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/devpratapsingh009/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devpratapsingh009/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
