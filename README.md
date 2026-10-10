@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devpratapsingh009/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/devpratapsingh009/leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/devpratapsingh009/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -80,6 +81,7 @@
 | [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/devpratapsingh009/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
@@ -113,6 +115,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devpratapsingh009/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/devpratapsingh009/leetcode/tree/master/0791-custom-sort-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devpratapsingh009/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -136,6 +139,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/devpratapsingh009/leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devpratapsingh009/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/devpratapsingh009/leetcode/tree/master/0763-partition-labels) |
@@ -222,6 +226,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/devpratapsingh009/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/devpratapsingh009/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/devpratapsingh009/leetcode/tree/master/0875-koko-eating-bananas) |
