@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/devpratapsingh009/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devpratapsingh009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devpratapsingh009/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -17,6 +18,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/devpratapsingh009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/devpratapsingh009/leetcode/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/devpratapsingh009/leetcode/tree/master/0274-h-index) |
@@ -86,6 +88,7 @@
 | [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/devpratapsingh009/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
