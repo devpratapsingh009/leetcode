@@ -43,6 +43,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/devpratapsingh009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/devpratapsingh009/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devpratapsingh009/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devpratapsingh009/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devpratapsingh009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/devpratapsingh009/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devpratapsingh009/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
