@@ -92,6 +92,7 @@
 | [0125-valid-palindrome](https://github.com/devpratapsingh009/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/devpratapsingh009/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/devpratapsingh009/leetcode/tree/master/0647-palindromic-substrings) |
@@ -271,6 +272,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/devpratapsingh009/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/devpratapsingh009/leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -304,6 +306,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/devpratapsingh009/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/devpratapsingh009/leetcode/tree/master/0394-decode-string) |
 ## Union-Find
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/devpratapsingh009/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
