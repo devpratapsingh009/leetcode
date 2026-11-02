@@ -314,6 +314,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/devpratapsingh009/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/devpratapsingh009/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/devpratapsingh009/leetcode/tree/master/0394-decode-string) |
@@ -329,5 +330,6 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/devpratapsingh009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/devpratapsingh009/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
