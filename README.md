@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/devpratapsingh009/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
@@ -258,6 +259,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/devpratapsingh009/leetcode/tree/master/0300-longest-increasing-subsequence) |
