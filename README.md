@@ -23,6 +23,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/devpratapsingh009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/devpratapsingh009/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/devpratapsingh009/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/devpratapsingh009/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devpratapsingh009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -182,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/devpratapsingh009/leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/devpratapsingh009/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/devpratapsingh009/leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
