@@ -64,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devpratapsingh009/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/devpratapsingh009/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devpratapsingh009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devpratapsingh009/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/devpratapsingh009/leetcode/tree/master/0125-valid-palindrome) |
@@ -295,6 +296,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devpratapsingh009/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/devpratapsingh009/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -308,6 +310,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devpratapsingh009/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/devpratapsingh009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devpratapsingh009/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Queue
