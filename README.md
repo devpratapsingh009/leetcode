@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/devpratapsingh009/leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/devpratapsingh009/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/devpratapsingh009/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
@@ -334,6 +335,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devpratapsingh009/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/devpratapsingh009/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devpratapsingh009/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/devpratapsingh009/leetcode/tree/master/0342-power-of-four) |
