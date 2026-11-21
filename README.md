@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/devpratapsingh009/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/devpratapsingh009/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/devpratapsingh009/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/devpratapsingh009/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/devpratapsingh009/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/devpratapsingh009/leetcode/tree/master/0189-rotate-array) |
@@ -22,6 +23,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/devpratapsingh009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/devpratapsingh009/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/devpratapsingh009/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/devpratapsingh009/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devpratapsingh009/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devpratapsingh009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/devpratapsingh009/leetcode/tree/master/0128-longest-consecutive-sequence) |
